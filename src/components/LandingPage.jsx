@@ -3,7 +3,7 @@ import { FaArrowUpLong } from "react-icons/fa6";
 
 function LandingPage() {
   return (
-    <div className="w-full h-screen bg-zinc-900 pt-1">
+    <div className="w-full bg-zinc-900 pt-1">
       <div className="textstructure mt-52 px-20">
         {/* <div className='masker'>
                 <h1 className='text-9xl leading-[4vw] tracking-tighter font-["Product_Sans"]'>We Create</h1>
@@ -47,7 +47,7 @@ function LandingPage() {
         ))}
 
         <div className="start flex items-center gap-5">
-          <div className="px-5 py-2 border-[1px] cursor-pointer border-zinc-400 text-xs font-light uppercase rounded-full">
+          <div className="px-5 py-2 border-[1px] cursor-pointer border-zinc-400 text-xs font-light uppercase rounded-full hover:bg-white duration-500 hover:text-black">
             start the project
           </div>
           <div className="w-9 h-9 flex  items-center justify-center rounded-full border-[1px] cursor-pointer border-zinc-400 ">
