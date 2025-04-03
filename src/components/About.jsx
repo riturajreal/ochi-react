@@ -2,11 +2,16 @@ import React from "react";
 
 const About = () => {
   return (
-    <div data-scroll data-scroll-section data-scroll-speed=".2" className="w-full p-20 bg-[#CDEA68] text-black rounded-2xl">
+    <div
+      data-scroll
+      data-scroll-section
+      data-scroll-speed=".2"
+      className="w-full p-20 bg-[#CDEA68] text-black rounded-2xl"
+    >
       <h1 className="text-[4vw] leading-[4.5vw] tracking-tight">
-        Ochi is a strategic partner for fast-grow­ing tech businesses that need
-        to raise funds, sell prod­ucts, ex­plain com­plex ideas, and hire great
-        peo­ple.
+        IdearcLabs is a strategic partner for fast-grow­ing tech businesses that
+        need to raise funds, sell prod­ucts, ex­plain com­plex ideas, and hire
+        great peo­ple.
       </h1>
 
       <div className="w-full flex flex-col md:flex-row gap-5 border-t-[1px] pt-10 mt-20 border-[#6f7c3d]">
